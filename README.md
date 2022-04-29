@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AngrySparrow1
 - 👀 I’m interested in python programming, especially with a mathematical side
 - 🌱 I’m currently learning the meaning of life
-- 💞️ I’m looking to collaborate on riding the world of nutters
+- 💞️ I’m looking to collaborate on clearing the world of nutters
 - 📫 How to reach me ...
 
 <!---
